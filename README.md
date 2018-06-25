@@ -1,2 +1,2 @@
 # email_splicer_project
-another coding practice from class that. just getting familiar with everything and git!
+Another coding practice from class that I'm using just to get familiar with everything and git!
