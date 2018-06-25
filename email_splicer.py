@@ -6,7 +6,7 @@ email = input("What is your email? > ").strip()
 
 user = email[:email.index("@")]
 
-#Slice out the domain name of the emai
+#Slice out the domain name of the email
 
 domain = email[email.index("@") + 1 :]
 
